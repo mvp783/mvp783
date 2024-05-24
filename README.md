@@ -1,6 +1,6 @@
 <h1>Malhar Parmar (MVP)</h1>
 
-<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Creator of <a href="https://www.handyinvoice.in/" target="_blank">@HandyInvoice</a></h2>
+<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Creator of <a href="https://www.handyinvoice.in/">@HandyInvoice</a></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -34,9 +34,7 @@
 
 <h3> 🔧 What I Do </h3>
 I specialize in creating robust, scalable, and maintainable web applications using Ruby on Rails. My expertise extends to both the front-end and back-end, ensuring a seamless user experience and efficient data handling.
-
-<br>
-  
+<br><br>  
 <ul>
   <li><b>Web Development</b> : Building and maintaining web applications with clean, efficient code.</li>
   <li><b>API Development</b> : Designing and implementing RESTful APIs.</li>
