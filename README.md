@@ -1,12 +1,12 @@
 <h1>Malhar Parmar (MVP)</h1>
 
-<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Co-Founder of <a href="https://www.handyinvoice.in/" target="_blank">@HandyInvoice</a></h2>
+<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Creator of <a href="https://www.handyinvoice.in/" target="_blank">@HandyInvoice</a></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 👋 Hello! I'm Malhar Parmar, a passionate Software Developer specializing in Ruby on Rails. With a strong foundation in web development and a knack for creating innovative and efficient solutions, I thrive on turning ideas into functional and impactful web applications. I have a deep-seated love for technology and coding, which drives me to constantly learn and stay updated with the latest trends in the industry. My journey as a developer has been enriched by my cross-functional abilities, allowing me to seamlessly integrate various technologies and collaborate effectively with diverse teams.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=820C02)
@@ -32,6 +32,18 @@
 
 <br/>
 
+<h3> 🔧 What I Do </h3>
+I specialize in creating robust, scalable, and maintainable web applications using Ruby on Rails. My expertise extends to both the front-end and back-end, ensuring a seamless user experience and efficient data handling.
+
+<ul>
+  <li>Web Development: Building and maintaining web applications with clean, efficient code.</li>
+  <li>API Development: Designing and implementing RESTful APIs.</li>
+  <li>Database Management: Designing, optimizing, and managing databases.</li>
+  <li>Code Review & Optimization: Conducting thorough code reviews and optimizing existing codebases for better   performance.</li>
+</ul>
+
+<br/>
+
 <a href="https://github.com/mvp783">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVP783&theme=buefy&layout=compact" />
 </a>
@@ -48,3 +60,4 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 <a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png"></a>
 </p>
 
+⭐️ From [MVP783](https://github.com/MVP783)
