@@ -34,12 +34,12 @@
 
 <h3> 🔧 What I Do </h3>
 I specialize in creating robust, scalable, and maintainable web applications using Ruby on Rails. My expertise extends to both the front-end and back-end, ensuring a seamless user experience and efficient data handling.
-
+<br/>
 <ul>
-  <li>Web Development: Building and maintaining web applications with clean, efficient code.</li>
-  <li>API Development: Designing and implementing RESTful APIs.</li>
-  <li>Database Management: Designing, optimizing, and managing databases.</li>
-  <li>Code Review & Optimization: Conducting thorough code reviews and optimizing existing codebases for better   performance.</li>
+  <li><b>Web Development</b> : Building and maintaining web applications with clean, efficient code.</li>
+  <li><b>API Development</b> : Designing and implementing RESTful APIs.</li>
+  <li><b>Database Management</b> : Designing, optimizing, and managing databases.</li>
+  <li><b>Code Review & Optimization</b> : Conducting thorough code reviews and optimizing existing codebases for better performance.</li>
 </ul>
 
 <br/>
