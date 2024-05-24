@@ -7,8 +7,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![Rails](https://img.shields.io/badge/-rubyonrails-333333?style=flat&logo=rubyonrails)  
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=820C02)
+  ![Rails](https://img.shields.io/badge/-rubyonrails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -39,4 +39,3 @@
 <a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png"></a>
 </p>
 
-⭐️ From [Malhar Parmar (MVP783)](https://github.com/mvp783)
