@@ -30,12 +30,18 @@
 
 <br/>
 
+<a href="https://github.com/mvp783">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVP783&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://.malharparmar.com/"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-32.png"></a>
-<a href="https://www.linkedin.com/in/mvp783/"><img alt="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png"></a>
-<a href="https://www.instagram.com/mvp783/"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-32.png"></a>
+<a href="https://.malharparmar.com/"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-32.png"></a> &nbsp;
+<a href="https://www.linkedin.com/in/mvp783/"><img alt="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png"></a> &nbsp;
+<a href="https://www.instagram.com/mvp783/"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-32.png"></a> &nbsp;
 <a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png"></a>
 </p>
 
