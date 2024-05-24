@@ -12,6 +12,7 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SCSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
@@ -23,6 +24,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -32,10 +34,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://.malharparmar.com/"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-64.png"></a>
-<a href="https://www.linkedin.com/in/mvp783/"><img alt="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png"></a>
-<a href="https://www.instagram.com/mvp783/"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png"></a>
-<a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png"></a>
+<a href="https://.malharparmar.com/"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-16.png"></a>
+<a href="https://www.linkedin.com/in/mvp783/"><img alt="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-16.png"></a>
+<a href="https://www.instagram.com/mvp783/"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-16.png"></a>
+<a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-16.png"></a>
 </p>
 
 ⭐️ From [Malhar Parmar (MVP783)](https://github.com/mvp783)
