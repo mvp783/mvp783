@@ -1,8 +1,10 @@
-<h2> Hey there! I'm Malhar Parmar (MVP).</h2>
+<h1>Malhar Parmar (MVP)</h1>
+
+<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Co-Founder of <a href="https://www.handyinvoice.in/">@HandyInvoice</a></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- :wave: &nbsp; Hello, I'm a Ruby on Rails developer and creating useful things for the web.
+👋 Hello! I'm Malhar Parmar, a passionate Software Developer specializing in Ruby on Rails. With a strong foundation in web development and a knack for creating innovative and efficient solutions, I thrive on turning ideas into functional and impactful web applications. I have a deep-seated love for technology and coding, which drives me to constantly learn and stay updated with the latest trends in the industry. My journey as a developer has been enriched by my cross-functional abilities, allowing me to seamlessly integrate various technologies and collaborate effectively with diverse teams.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,6 +39,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+I'm always excited to connect with fellow developers, potential collaborators, and anyone passionate about technology. Feel free to reach out!
 
 <p align="center">
 <a href="https://.malharparmar.com/"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-32.png"></a> &nbsp;
