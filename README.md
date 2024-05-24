@@ -1,6 +1,6 @@
 <h1>Malhar Parmar (MVP)</h1>
 
-<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Co-Founder of <a href="https://www.handyinvoice.in/">@HandyInvoice</a></h2>
+<h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Co-Founder of <a href="https://www.handyinvoice.in/" target="_blank">@HandyInvoice</a></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
