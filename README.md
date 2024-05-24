@@ -55,7 +55,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 <p align="center">
 <a href="mailto:malharparmar@gmail.com"><img alt="Email" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png"></a> &nbsp;
-<a href="https://.malharparmar.com"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-32.png"></a> &nbsp;
+<a href="https://www.malharparmar.com"><img alt="Website" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5343_-_Google_Chrome-32.png"></a> &nbsp;
 <a href="https://www.linkedin.com/in/mvp783"><img alt="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png"></a> &nbsp;
 <a href="https://www.instagram.com/mvp783"><img alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-32.png"></a> &nbsp;
 <a href="https://www.facebook.com/mvp783"><img alt="Email" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-32.png"></a> &nbsp;
