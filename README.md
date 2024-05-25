@@ -2,9 +2,11 @@
 
 <h2>Software Developer | Ruby on Rails Developer | Cross-Functional Innovator | Creator of <a href="https://www.handyinvoice.in/">@HandyInvoice</a></h2>
 
+👋 Hello! I'm Malhar Parmar, a passionate Software Developer specializing in Ruby on Rails. With a strong foundation in web development and a knack for creating innovative and efficient solutions, I thrive on turning ideas into functional and impactful web applications.
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-👋 Hello! I'm Malhar Parmar, a passionate Software Developer specializing in Ruby on Rails. With a strong foundation in web development and a knack for creating innovative and efficient solutions, I thrive on turning ideas into functional and impactful web applications. I have a deep-seated love for technology and coding, which drives me to constantly learn and stay updated with the latest trends in the industry. My journey as a developer has been enriched by my cross-functional abilities, allowing me to seamlessly integrate various technologies and collaborate effectively with diverse teams.
+I have a deep-seated love for technology and coding, which drives me to constantly learn and stay updated with the latest trends in the industry. My journey as a developer has been enriched by my cross-functional abilities, allowing me to seamlessly integrate various technologies and collaborate effectively with diverse teams.
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
